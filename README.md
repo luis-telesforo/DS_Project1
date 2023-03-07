@@ -4,3 +4,4 @@
 * We compare for position: total income and total income per hour. We calculate confidence intervals for the mean of the total income per hour.
 * We compare for sector job: total income per hour. We calculate confidence intervals for the mean of the total income per hour
 * From our analysis we cannot conclude anything about the wage gap in Mexico. The problem we found is the lack of data, there are many samples with no enough information.
+* A summary chart is provided
